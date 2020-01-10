@@ -1,2 +1,0 @@
-# liker
-I like you
